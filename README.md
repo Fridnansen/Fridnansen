@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @Fridnansen
 
-♟️ Full Stack Developer | Data & Game Specialist 
+♟️ Full Stack Developer | Data & Game Specialist
+
 🚀 Creator of **Masterdrez** – evolving the traditional chess into a new strategic multiplayer experience  
 
 ---
