@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @Fridnansen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @Fridnansen
 
-<!---
-Fridnansen/Fridnansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+♟️ Full Stack Developer | Data & Game Specialist 
+🚀 Creator of **Masterdrez** – evolving the traditional chess into a new strategic multiplayer experience  
+
+---
+
+## 👀 I’m interested in
+- Game development (strategy & board games)  
+- Scalable web platforms (React, real-time systems)  
+- Artificial Intelligence applied to games  
+- Innovation in classic systems (like chess)  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced system architecture (backend + real-time multiplayer)  
+- AI integration for strategic decision-making  
+- Product validation & startup development (Lean, MVP, UX)  
+
+---
+
+## 💞️ I’m looking to collaborate on
+- Game development projects  
+- Open-source platforms  
+- Startups focused on innovation, edtech or gaming  
+- Chess / strategy-based systems  
+
+---
+
+## 📫 How to reach me
+- 📧 Email:  villadifran@gmail.com  
+- 💼 LinkedIn: http://www.linkedin.com/in/fridnansen
+- 🌐 Project: https://masterdrez.com  
+
+---
+
+⚡ *“When chess evolves, new possibilities are created.”*
