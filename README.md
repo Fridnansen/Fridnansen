@@ -32,7 +32,7 @@
 ## 📫 How to reach me
 - 📧 Email:  villadifran@gmail.com  
 - 💼 LinkedIn: http://www.linkedin.com/in/fridnansen
-- 📁 https://fridnansen.github.io/francisco-diaz-portfolio/
+- 📁 Portfolio: https://fridnansen.github.io/francisco-diaz-portfolio/
 - 🌐 Project: https://masterdrez.com  
 
 ---
