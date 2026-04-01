@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Fridnansen
 
-♟️ Full Stack Developer | Chess-Based Systems | Data & Game Specialist
+♟️ Software Engineer | Full Stack Developer | Chess-Based Systems | Data & Game Specialist
 
 🚀 Creator of **Masterdrez** – evolving the traditional chess into a new strategic multiplayer experience  
 
@@ -31,8 +31,6 @@
 
 ## 📫 How to reach me
 - 📧 Email:  villadifran@gmail.com  
-- 💼 LinkedIn: http://www.linkedin.com/in/fridnansen
-- 📁 Portfolio: https://fridnansen.github.io/francisco-diaz-portfolio/
 - 🌐 Project: https://masterdrez.com  
 
 ---
