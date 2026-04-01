@@ -1,38 +1,42 @@
-# 👋 Hi, I’m @Fridnansen
+# Francisco Díaz Villarreal
 
-♟️ Software Engineer | Full Stack Developer | Chess-Based Systems | Data & Game Specialist
+Software Engineer | Full Stack Developer | Game Developer
 
-🚀 Creator of **Masterdrez** – evolving the traditional chess into a new strategic multiplayer experience  
+PhD in Applied Sciences with experience building scalable
+software systems, full stack applications and game engines.
 
----
+## Technical Skills
 
-## 👀 I’m interested in
-- Game development (strategy & board games)  
-- Scalable web platforms (React, real-time systems)  
-- Artificial Intelligence applied to games  
-- Innovation in classic systems (like chess)  
+Languages  
+Python, Java, C#, C++, JavaScript, TypeScript
 
----
+Frontend  
+React, Vue, HTML, CSS
 
-## 🌱 I’m currently learning
-- Advanced system architecture (backend + real-time multiplayer)  
-- AI integration for strategic decision-making  
-- Product validation & startup development (Lean, MVP, UX)  
+Backend  
+Node.js, Spring Boot, .NET
 
----
+Databases  
+MySQL, SQL Server, MongoDB
 
-## 💞️ I’m looking to collaborate on
-- Game development projects  
-- Open-source platforms  
-- Startups focused on innovation, edtech or gaming  
-- Chess / strategy-based systems  
+Game Development  
+Unity (C#)
 
----
+AI / ML  
+Python, TensorFlow
 
-## 📫 How to reach me
-- 📧 Email:  villadifran@gmail.com  
-- 🌐 Project: https://masterdrez.com  
+## Projects
 
----
+### Masterdrez
+Four player chess engine developed in Unity.
 
-⚡ *“When chess evolves, new possibilities are created.”*
+### Full Stack Web Application
+React + Node + MySQL application.
+
+### Machine Learning Project
+Data analysis and prediction using TensorFlow.
+
+## Contact
+
+LinkedIn  
+GitHub
