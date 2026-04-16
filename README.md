@@ -1,4 +1,4 @@
-# Francisco Díaz Villarreal
+# Francisco José Díaz Villarreal
 
 Software Engineer | Full Stack Developer | Spec Driver Development | Project Lead | Chess-Based Systems | Data & Game Specialist
 
