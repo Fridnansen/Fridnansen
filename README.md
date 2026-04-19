@@ -25,7 +25,3 @@ Unity (C#)
 AI / ML  
 Python, TensorFlow, Machine Learning, Data Analysis 
 
-## Contact
-
-LinkedIn  
-GitHub
