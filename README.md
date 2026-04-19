@@ -8,33 +8,22 @@ software systems, full stack applications and game engines.
 ## Technical Skills
 
 Languages  
-Python, Java, C#, C++, JavaScript, TypeScript
+Python, Java, Apex, C#, C++, C, JavaScript, TypeScript, PHP 
 
 Frontend  
-React, Vue, HTML, CSS
+React.js, Vue.js, Bootstrap.js, HTML5, CSS3 
 
 Backend  
-Node.js, Spring Boot, .NET
+Node.js, Spring Boot (Java), .NET, REST APIs
 
 Databases  
-MySQL, SQL Server, MongoDB
+MySQL, SQL Server, MongoDB, SOQL, SOSL
 
 Game Development  
 Unity (C#)
 
 AI / ML  
-Python, TensorFlow
-
-## Projects
-
-### Masterdrez
-Four player chess engine developed in Unity.
-
-### Full Stack Web Application
-React + Node + MySQL application.
-
-### Machine Learning Project
-Data analysis and prediction using TensorFlow.
+Python, TensorFlow, Machine Learning, Data Analysis 
 
 ## Contact
 
