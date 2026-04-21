@@ -81,49 +81,7 @@ Machine Learning, Data Analysis
 git,github,vscode
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🧩 Featured Projects
-
-### 🚀 CRUD Spring Boot API
-Backend REST API built with Spring Boot
-
-- Java 17 + Spring Boot  
-- Layered architecture  
-- MySQL + JPA/Hibernate  
-
-🔗 https://github.com/Fridnansen/cac-crud-spring
-
----
-
-### 🧾 CRUD Web Application – Java EE
-Classic full stack Java application
-
-- Servlets + JSP + JDBC  
-- MVC architecture  
-- MySQL integration  
-
-🔗 https://github.com/Fridnansen/CRUD
-
----
-
-### 🛒 Full Stack Shopping Cart
-Modern web application
-
-- React.js + Node.js  
-- REST API + MockAPI  
-- JSON-based data flow  
-
----
-
-### ♟️ Chess-Based Systems (Masterdrez)
-Game engine and system design project
-
-- C++ + OpenGL + Qt  
-- Algorithm optimization  
-- Game logic & AI foundations  
+</p>  
 
 ---
 
